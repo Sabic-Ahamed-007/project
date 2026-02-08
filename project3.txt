@@ -1,0 +1,6 @@
+git clone ...... for cloning
+cd "file name" ..... for inserting 
+git status ..... for checking
+git add "file name" ..... for adding the file into github
+git commit -m ..... for sign to completed into github
+git push origin main  .... for it push into the github
